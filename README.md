@@ -2,15 +2,15 @@
 Javascript slug creator. Can be used as a key in redux reducer
 
 
-Install
+# Install
 yarn add redux-slug
 
-Importing
+# Importing
 import {to_slug} from "redux-slug";
 
-Usage
+# Usage
 to_slug("filter1 filter2 pageNo etc 123")
 
-resulting slug
+# Resulting slug
 'filter1-filter2-pageno-etc-123'
 
