@@ -1,6 +1,6 @@
 {
   "name": "redux-slug",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Javascript slug creator. Can be used as a key in redux reducer",
   "main": "index.js",
   "repository": "https://github.com/nshganesh/redux-slug.git",
