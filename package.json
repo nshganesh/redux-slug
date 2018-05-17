@@ -1,0 +1,19 @@
+{
+  "name": "redux-slug",
+  "version": "0.0.6",
+  "description": "Javascript slug creator. Can be used as a key in redux reducer",
+  "main": "index.js",
+  "repository": "https://github.com/nshganesh/redux-slug.git",
+  "author": "Ganesh Hegde <nshganesh@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "slug",
+    "redux",
+    "reducer",
+    "filter",
+    "reducer key"
+  ],
+  "homepage": "https://github.com/nshganesh/redux-slug",
+  "bugs": "https://github.com/nshganesh/redux-slug/issues"
+}

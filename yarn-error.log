@@ -1,0 +1,54 @@
+Arguments: 
+  /home/ganesh/.nvm/versions/node/v9.0.0/bin/node /home/ganesh/.nvm/versions/node/v9.0.0/bin/yarn publish
+
+PATH: 
+  /home/ganesh/.rvm/gems/ruby-2.4.1/bin:/home/ganesh/.rvm/gems/ruby-2.4.1@global/bin:/usr/share/rvm/rubies/ruby-2.4.1/bin:/home/ganesh/.rvm/gems/ruby-2.4.1/bin:/home/ganesh/.rvm/gems/ruby-2.4.1@global/bin:/home/ganesh/.rvm/gems/ruby-2.4.1@ofc_web/bin:/home/ganesh/.rvm/gems/ruby-2.4.1@global/bin:/home/ganesh/.rvm/gems/ruby-2.4.1/bin:/home/ganesh/.rvm/gems/ruby-2.4.1@global/bin:/home/ganesh/.nvm/versions/node/v9.0.0/bin:/home/ganesh/bin:/home/ganesh/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-openjdk-amd64/bin:/usr/share/rvm/bin
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  9.0.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  {
+    "name": "redux-slug",
+    "version": "0.0.6",
+    "description": "Javascript slug creator. Can be used as a key in redux reducer",
+    "main": "index.js",
+    "repository": "https://github.com/nshganesh/redux-slug.git",
+    "author": "Ganesh Hegde <nshganesh@gmail.com>",
+    "license": "MIT",
+    "keywords": [
+      "javascript",
+      "slug",
+      "redux",
+      "reducer",
+      "filter",
+      "reducer key"
+    ],
+    "homepage": "https://github.com/nshganesh/redux-slug",
+    "bugs": "https://github.com/nshganesh/redux-slug/issues"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: https://registry.yarnpkg.com/redux-slug: you must verify your email before publishing a new package: https://www.npmjs.com/email-edit
+      at Request.params.callback [as _callback] (/home/ganesh/.nvm/versions/node/v9.0.0/lib/node_modules/yarn/lib/cli.js:62098:18)
+      at Request.self.callback (/home/ganesh/.nvm/versions/node/v9.0.0/lib/node_modules/yarn/lib/cli.js:123085:22)
+      at emitTwo (events.js:135:13)
+      at Request.emit (events.js:224:7)
+      at Request.<anonymous> (/home/ganesh/.nvm/versions/node/v9.0.0/lib/node_modules/yarn/lib/cli.js:124068:10)
+      at emitOne (events.js:125:13)
+      at Request.emit (events.js:221:7)
+      at Gunzip.<anonymous> (/home/ganesh/.nvm/versions/node/v9.0.0/lib/node_modules/yarn/lib/cli.js:123988:12)
+      at Object.onceWrapper (events.js:322:30)
+      at emitNone (events.js:120:20)
